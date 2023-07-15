@@ -57,21 +57,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayeshranjan&show_icons=true" alt="GitHub Stats" />
+<h3 align="left">About Me:</h3>
+<p align="left">
+As a Machine Learning and Deep Learning Engineer, I am an enthusiastic and driven fresher with a strong passion for artificial intelligence and a solid foundation in computer science. With a deep understanding of machine learning algorithms, neural networks, project implementation and data analysis techniques, I am well-equipped to tackle complex challenges in this field. In addition to my expertise in machine learning, I possess a strong knowledge of data structures, which allows me to efficiently organize and process data for optimal model performance. Moreover, I have honed my project management skills, enabling me to oversee the entire lifecycle of a project, from inception to delivery. 
+I thrive in collaborative environments, where I can leverage my analytical skills and creativity to develop innovative solutions. By staying updated with the latest advancements in the field, I strive to continuously enhance my skill set and contribute to the cutting-edge world of machine learning and deep learning. With my dedication, adaptability, and the ability to manage end-to-end project delivery, I am eager to make a meaningful impact in this ever-evolving field.
 </p>
 
-<p align="center">
-  <a href="https://github.com/jayeshranjan" target="_blank">
-    <img src="https://badges.pufler.dev/visits/jayeshranjan/jayeshranjan" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/jayeshranjan" target="_blank">
-    <img src="https://badges.pufler.dev/years/jayeshranjan" alt="Years on GitHub" />
-  </a>
-  <a href="https://github.com/jayeshranjan?tab=repositories" target="_blank">
-    <img src="https://badges.pufler.dev/repos/jayeshranjan" alt="GitHub Repositories" />
-  </a>
-  <a href="https://github.com/jayeshranjan?tab=followers" target="_blank">
-    <img src="https://badges.pufler.dev/followers/jayeshranjan" alt="GitHub Followers" />
-  </a>
-</p>
+
