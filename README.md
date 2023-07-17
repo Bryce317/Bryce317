@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jayeshranjan.jr@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/4fep5n72](https://tinyurl.com/4fep5n72)
+- 📄 Know about my experiences [https://tinyurl.com/mr489vma](https://tinyurl.com/mr489vma)
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-ranjan/" target="_blank">
